@@ -3,7 +3,7 @@
 This is a general guide to working with this project through GitHub.
 
 If you'd like to take over this Perl module, I'm more than willing to
-give it up. Write to me at bdfoy@cpan.org and we'll work it out.
+give it up. Write to me at ssimms@cpan.org and we'll work it out.
 
 <a name="pull-requests"></a>
 ## Pull requests

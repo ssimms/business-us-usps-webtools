@@ -231,15 +231,19 @@ The WebTools API is documented on the US Postal Service's website:
 
 This source is in GitHub:
 
-	https://github.com/CPAN-Adoptable-Modules/business-us-usps-webtools
+	https://github.com/ssimms/business-us-usps-webtools
 
 =head1 AUTHOR
 
-brian d foy, C<< <bdfoy@cpan.org> >>
+brian d foy
+
+=head1 MAINTAINER
+
+Steve Simms
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2006-2018, brian d foy <bdfoy@cpan.org>. All rights reserved.
+Copyright © 2020, Steve Simms. All rights reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the Artistic License 2.0.
