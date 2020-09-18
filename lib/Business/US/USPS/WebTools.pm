@@ -10,7 +10,7 @@ use Carp qw(carp croak);
 use subs qw();
 use vars qw($VERSION);
 
-$VERSION = '1.123';
+$VERSION = '1.124';
 
 =encoding utf8
 
