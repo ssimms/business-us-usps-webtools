@@ -6,6 +6,13 @@ use Test::More;
 my $class  = "Business::US::USPS::WebTools::TrackConfirm";
 my $method = 'track';
 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+unless( $ENV{USPS_WEBTOOLS_USERID} and $ENV{USPS_WEBTOOLS_PASSWORD} )
+	{
+	plan skip_all =>
+	"You must set the USPS_WEBTOOLS_USERID and USPS_WEBTOOLS_PASSWORD " .
+	"environment variables to run these tests\n";
+	}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 subtest setup => sub {
