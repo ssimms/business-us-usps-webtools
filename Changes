@@ -1,6 +1,6 @@
 Revision history for Perl module Business::US::USPS::WebTools
 
-1.125
+1.125 2021-05-19
         * Updated API endpoints.  Always use HTTPS.
 
         * Removed two tests that started failing due to changes in the API
